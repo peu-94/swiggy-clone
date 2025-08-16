@@ -12,3 +12,5 @@ git add .
 git commit -m "testing index.html"
 git branch -M main
 git push origin main
+npm init
+npm install -D parcel
