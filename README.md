@@ -15,3 +15,4 @@ git push origin main
 npm init
 npm install -D parcel
 npx parcel index.html
+npm run start/ npm start
